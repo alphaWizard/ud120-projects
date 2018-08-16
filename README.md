@@ -1,4 +1,3 @@
-ud120-projects
+ud120-pcourse
 ==============
-
-Starter project code for students taking Udacity ud120
+My attempts for the course Udacity ud120 
